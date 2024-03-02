@@ -1,0 +1,4 @@
+name: holoeasy
+version: 3.1.1
+main: org.holoeasy.HoloEasy
+api-version: 1.17
